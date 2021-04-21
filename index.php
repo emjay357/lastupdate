@@ -103,6 +103,7 @@ echo '<script>window.location="'.$url.'"</script>';
                         <li><a class="taskbar" href="#Fridge">Fridge</a></li>
                         <li><a class="taskbar" href="#Microwave">Microwave</a></li>
                         <li><a class="taskbar" href="contactus.php">Contact Us</a></li>
+                        <li><a class="taskbar" href="aboutus.php">About Us</a></li>
                     </ul>
                 </div>  
             </div>
@@ -186,13 +187,13 @@ echo '<script>window.location="'.$url.'"</script>';
 
         </div>        
     </div>
-    <div class="productsection divfix">
-    <p class="tittle" style="color: black; ">TOP SELLING</p>
+    <div class="productsectiontop divfixtop">
+    <p class="tittletop" style="color: black; ">TOP SELLING</p>
     <center>
     <img src="./image/image/khung.jpg">
     </center>
     <center>
-    <div class="productdiv">
+    <div class="productdivtop">
         <div>
         <form action="./index.php" method="GET">
             <button type="submit" name="fridgeid" value="e1" class="productname productnamefirst">

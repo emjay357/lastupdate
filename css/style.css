@@ -39,12 +39,24 @@
       font-size: 35px;
       font-family: 'Josefin Sans', sans-serif;
       font-family: Garamond;
-      margin-top: 100px !important;
+      color: white;
+      text-align: center;
+    }
+    .tittletop{
+      position: relative;
+    
+      font-size: 35px;
+      font-family: 'Josefin Sans', sans-serif;
+      font-family: Garamond;
+      margin-top: 10px !important;
       color: white;
       text-align: center;
     }
     .productdiv{
       margin-top: -40px;
+    }
+    .productdivtop{
+      margin-top: 55px;
     }
     .overwirte{
       height: 1100px;
@@ -54,6 +66,10 @@
       background-repeat: no-repeat !important;
     }
     .divfix{
+      height: 480px;
+      margin-top: 60px !important;
+    }
+    .divfixtop{
       height: 480px;
       margin-top: 60px !important;
     }
@@ -238,6 +254,9 @@ font-size: 20px;
 .productsection{
   margin-top: 100px;
 }
+.productsectiontop{
+  margin-top: 100px !important;
+}
 #feature{
   margin-left: 100px;
   position: absolute;
@@ -312,3 +331,28 @@ font-size: 20px;
   display: inline-block;
   margin-left: -26.5px !important;
 }
+ .mainmenu-area {background: none repeat scroll 0 0 rgb(254, 209, 1);
+    font-family: "Roboto Condensed",sans-serif;
+    text-transform: uppercase;
+    width: 100%;
+    z-index: 999;
+}
+.mainmenu-area ul.navbar-nav li a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 18px;
+}
+.mainmenu-area ul.navbar-nav li:hover a{background: black}
+.contact-area, .introduction-area {padding-bottom: 100px}
+
+.product-big-title-area {background: repeat scroll 0 0 rgb(77, 77, 77)}
+.product-big-title h2 {
+  font-family: raleway;
+  font-size: 50px;
+  font-weight: 200;
+  margin: 0;
+  padding: 50px 0;color: #fff;
+}
+.contact-form, .contact-info {margin-top: 20px;}
+.title {color: rgb(254, 209, 1);}
