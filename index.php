@@ -201,19 +201,19 @@ echo '<script>window.location="'.$url.'"</script>';
             </button>
             <button type="submit" name="airconditionerid" value="b1" class="productname">
             <img src="./image/image/topselling2.jpg" class="productimg">
-            <p>LG COOL™ Inverter</p>
+            <p>LG COOL Inverter</p>
             </button>
             <button type="submit" name="microwaveid" value="d1" class="productname">
             <img src="./image/image/topselling3.jpg" class="productimg">
-            <p>T240WHT Microwave</p>
+            <p>T240 Microwave</p>
             </button>
             <button type="submit" name="microwaveid" value="d2" class="productname">
             <img src="./image/image/topselling4.jpg" class="productimg">
-            <p>Panasonic Countertop</p>
+            <p>Panasonic Counter</p>
             </button>
             <button type="submit" name="fanid" value="a1" class="productname">
             <img src="./image/image/topselling5.jpg" class="productimg">
-            <p>Toshiba Inverter RAS-H</p>
+            <p>Toshiba Inverter</p>
             </button>
         </form>
         </div>
@@ -226,7 +226,7 @@ echo '<script>window.location="'.$url.'"</script>';
         <form action="./index.php" method="GET">
             <button type="submit" name="fanid" value="a1" class="productname productnamefirst">
             <img src="./image/image/topselling5.jpg" class="productimg">
-            <p>Toshiba Inverter RAS-H</p>
+            <p>Toshiba Inverter</p>
             </button>
             <button type="submit" name="fanid" value="a2" class="productname">
             <img src="./image/image/fan2.jpg" class="productimg">
@@ -255,7 +255,7 @@ echo '<script>window.location="'.$url.'"</script>';
         <form action="./index.php" method="GET">
             <button type="submit" name="airconditionerid" value="b1" class="productname productnamefirst">
             <img src="./image/image/topselling2.jpg" class="productimg">
-            <p>LG COOL™ Inverter</p>
+            <p>LG COOL Inverter</p>
             </button>
             <button type="submit" name="airconditionerid" value="b2" class="productname">
             <img src="./image/image/air-conditioner.jpg" class="productimg">
@@ -342,11 +342,11 @@ echo '<script>window.location="'.$url.'"</script>';
         <form action="./index.php" method="GET">
             <button type="submit" name="microwaveid" value="d1" class="productname productnamefirst">
             <img src="./image/image/topselling4.jpg" class="productimg">
-            <p>Panasonic Countertop</p>
+            <p>Panasonic Counter</p>
             </button>
             <button type="submit" name="microwaveid" value="d2" class="productname">
             <img src="./image/image/topselling3.jpg" class="productimg">
-            <p>T240WHT Microwave</p>
+            <p>T240 Microwave</p>
             </button>
             <button type="submit" name="microwaveid" value="d3" class="productname">
             <img src="./image/image/microwave3.jpg" class="productimg">
